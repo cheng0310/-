@@ -1,11 +1,15 @@
 <html>
 
 <head>
+
 <meta charset="UTF-8">      
+
 <title>homework_week1</title>
+
 </head>
 
 <body>
+
 HELLO HTML<br>
 
 <?php
@@ -13,6 +17,7 @@ HELLO HTML<br>
 echo "hello, php\n"; 
 
 ?>
+
 </body>
 
 </html>
