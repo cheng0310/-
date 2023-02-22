@@ -1,0 +1,21 @@
+<html>
+
+<head>
+
+<meta charset="UTF-8">    
+
+<title>Homework_week1</title>
+
+</head>
+
+<body>
+HELLO HTML
+
+<?php
+
+echo "hello php";
+
+?>
+</body>
+
+</html>
