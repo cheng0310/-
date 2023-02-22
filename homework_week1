@@ -1,19 +1,16 @@
 <html>
 
 <head>
-
-<meta charset="UTF-8">    
-
-<title>Homework_week1</title>
-
+<meta charset="UTF-8">      
+<title>homework_week1</title>
 </head>
 
 <body>
-HELLO HTML
+HELLO HTML<br>
 
 <?php
 
-echo "hello php";
+echo "hello, php\n"; 
 
 ?>
 </body>
